@@ -8,4 +8,6 @@ Delete files from: path/to/civicrm/vendor/dompdf/
 
 Copy files from this repo into: path/to/civicrm/vendor/dompdf/
 
-Proper path: path/to/civicrm/vendor/dompdf/dompdf/autoload.inc.php
+
+
+Check proper path: path/to/civicrm/vendor/dompdf/dompdf/autoload.inc.php - if file exist - OK
